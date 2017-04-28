@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+				 android:drawable="@drawable/start_screen_vector_morphable">
+	<target
+		android:animation="@animator/start_screen_transition_centre"
+		android:name="centre" />
+	<target
+		android:animation="@animator/start_screen_transition_round_1"
+		android:name="round_1" />
+	<target
+		android:animation="@animator/start_screen_transition_round_2"
+		android:name="round_2" />
+	<target
+		android:animation="@animator/start_screen_transition_round_3"
+		android:name="round_3" />
+	<target
+		android:animation="@animator/start_screen_transition_round_4"
+		android:name="round_4" />
+	<target
+		android:animation="@animator/start_screen_transition_round_5"
+		android:name="round_5" />
+	<target
+		android:animation="@animator/start_screen_transition_round_6"
+		android:name="round_6" />
+	<target
+		android:animation="@animator/start_screen_transition_round_7"
+		android:name="round_7" />
+	<target
+		android:animation="@animator/start_screen_transition_round_8"
+		android:name="round_8" />
+	<target
+		android:animation="@animator/start_screen_transition_round_9"
+		android:name="round_9" />
+	<target
+		android:animation="@animator/start_screen_transition_round_10"
+		android:name="round_10" />
+	<target
+		android:animation="@animator/start_screen_transition_round_11"
+		android:name="round_11" />
+	<target
+		android:animation="@animator/start_screen_transition_round_12"
+		android:name="round_12" />
+	<target
+		android:animation="@animator/start_screen_transition_round_13"
+		android:name="round_13" />
+	<target
+		android:animation="@animator/start_screen_transition_round_14"
+		android:name="round_14" />
+	<target
+		android:animation="@animator/start_screen_transition_round_15"
+		android:name="round_15" />
+	<target
+		android:animation="@animator/start_screen_transition_round_16"
+		android:name="round_16" />
+	<target
+		android:animation="@animator/start_screen_transition_round_17"
+		android:name="round_17" />
+	<target
+		android:animation="@animator/start_screen_transition_round_18"
+		android:name="round_18" />
+	<target
+		android:animation="@animator/start_screen_transition_round_19"
+		android:name="round_19" />
+	<target
+		android:animation="@animator/start_screen_transition_round_20"
+		android:name="round_20" />
+	<target
+		android:animation="@animator/start_screen_transition_round_21"
+		android:name="round_21" />
+</animated-vector>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+	<objectAnimator
+		android:duration="@integer/start_screen_transition_time"
+		android:name="centre"
+		android:propertyName="pathData"
+		android:valueType="pathType"
+		android:valueFrom="M 489.28906,933.39648 L 476.76367,988.27734 L 511.85742,1032.2832 L 568.13086,1032.2832 L 603.23438,988.26367 L 590.71289,933.39453 L 540.00195,908.97461 Z "
+		android:valueTo="M 539.998604286,973.839004286 L 539.998604286,973.839004286 L 539.998604286,973.839004286 L 539.998604286,973.839004286 L 539.998604286,973.839004286 L 539.998604286,973.839004286 L 539.998604286,973.839004286 Z " />
+</set>

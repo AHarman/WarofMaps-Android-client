@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+	<objectAnimator
+		android:duration="@integer/start_screen_transition_time"
+		android:name="round_19"
+		android:startOffset="1900"
+		android:propertyName="pathData"
+		android:valueType="pathType"
+		android:valueFrom="M 939.02539,29.826172 L 888.94727,249.23047 L 1029.2578,73.289062 L 1079.3379,-146.11914 Z M 489.91211,1997.5352 L 539.99023,2216.9375 L 590.07812,1997.4883 L 540,1778.0859 Z M 50.712891,73.261719 L 191.05664,249.24414 L 140.96875,29.806641 L 0.62695312,-146.17578 Z "
+		android:valueTo="M 984.14209,51.556641 L 984.14209,51.556641 L 984.14209,51.556641 L 984.14209,51.556641 Z M 539.995115,1997.511725 L 539.995115,1997.511725 L 539.995115,1997.511725 L 539.995115,1997.511725 Z M 95.84130853,51.53418 L 95.84130853,51.53418 L 95.84130853,51.53418 L 95.84130853,51.53418 Z " />
+</set>

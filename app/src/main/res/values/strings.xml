@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">War of Maps</string>
+
+	<string name="permission_denied_dialog_title">Enable location</string>
+	<string name="permission_denied_dialog_message">This game is entirely location based, in order to play it you need to give permission to access your location</string>
+	<string name="permission_denied_dialog_affirm">Understood</string>
+</resources>
